@@ -8,8 +8,8 @@ You can also download data from BaiduYun(https://pan.baidu.com/s/1j0TEt-2Dw3kcfd
 
 ## 3. Inference the pretrain model
 Download the pre-trained models firstly, `pretrains` folder
-  * from [BaiduPan](https://pan.baidu.com/s/1K5mE07ygCoP9Mw97RlGrSA), password, `ioov`;
-  * from [OneDrive](https://1drv.ms/u/s!AjjUqiJZsj8whLdx8Bw8NyAQ3NlGVw?e=odcUe3),
+  * from [OneDrive](https://1drv.ms/u/s!AjjUqiJZsj8whLdx8Bw8NyAQ3NlGVw?e=odcUe3);
+  * from [BaiduPan](https://pan.baidu.com/s/1K5mE07ygCoP9Mw97RlGrSA), ioov
 
 and then, move the `pretrains` folder into `data`,`mv pretrains data`.
 
