@@ -1,0 +1,8 @@
+tensorflow==1.14.0
+tensorflow-gpu==1.14.0
+imageio
+scipy
+numpy
+scikit_learn
+opencv-python
+progressbar2

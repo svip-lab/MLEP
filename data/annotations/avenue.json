@@ -1,0 +1,154 @@
+{
+    "01": {
+        "anomalies": [
+            {"running": [[78, 120], [392, 422], [868, 910], [1363, 1430]]},
+            {"intrucing into camera": [[503, 666], [932, 1101]]}
+        ],
+        "length": 1439
+    },
+
+    "02": {
+        "anomalies": [
+            {"running": [[273, 320], [724, 764]]}
+        ],
+        "length": 1211
+    },
+
+    "03": {
+        "anomalies": [
+            {"running": [[295, 340], [582, 622]]}
+        ],
+        "length": 923
+    },
+
+    "04": {
+        "anomalies": [
+            {"running": [[380, 428], [649, 692]]}
+        ],
+        "length": 947
+    },
+
+    "05": {
+        "anomalies": [
+            {"throwing object": [[469, 786]]}
+        ],
+        "length": 1007
+    },
+
+    "06": {
+        "anomalies": [
+            {"intrucing into camera": [[345, 625]]},
+            {"throwing object": [[815, 1007]]}
+        ],
+        "length": 1283
+    },
+
+    "07": {
+        "anomalies": [
+            {"jumping": [[300, 307], [423, 494], [563, 605]]}
+        ],
+        "length": 605
+    },
+
+    "08": {
+        "anomalies": [
+            {"jumping": [[1, 36]]}
+        ],
+        "length": 36
+    },
+
+    "09": {
+        "anomalies": [
+            {"intrucing into camera": [[136, 183], [741, 755]]},
+            {"jumping": [[496, 566]]},
+            {"throwing object": [[824, 1175]]}
+        ],
+        "length": 1175
+    },
+
+    "10": {
+        "anomalies": [
+            {"throwing object": [[550, 841]]}
+        ],
+        "length": 841
+    },
+
+    "11": {
+        "anomalies": [
+            {"throwing object": [[1, 220]]},
+            {"running": [[46, 90]]},
+            {"intrucing into camera": [[308, 346]]}
+        ],
+        "length": 472
+    },
+
+    "12": {
+        "anomalies": [
+            {"throwing object": [[490, 930]]}
+        ],
+        "length": 1271
+    },
+
+    "13": {
+        "anomalies": [
+            {"throwing object": [[228, 289], [395, 549]]}
+        ],
+        "length": 549
+    },
+
+    "14": {
+        "anomalies": [
+            {"throwing object": [[363, 507]]}
+        ],
+        "length": 507
+    },
+
+    "15": {
+        "anomalies": [
+            {"intrucing into camera": [[498, 587]]}
+        ],
+        "length": 1001
+    },
+
+    "16": {
+        "anomalies": [
+            {"bycicle": [[632, 740]]}
+        ],
+        "length": 740
+    },
+
+    "17": {
+        "anomalies": [
+            {"dancing": [[1, 56], [99, 426]]}
+        ],
+        "length": 426
+    },
+
+    "18": {
+        "anomalies": [
+            {"dancing": [[1, 294]]}
+        ],
+        "length": 294
+    },
+
+    "19": {
+        "anomalies": [
+            {"intrucing into camera": [[109, 248]]}
+        ],
+        "length": 248
+    },
+
+    "20": {
+        "anomalies": [
+            {"throwing object": [[65, 144], [168, 273]]}
+        ],
+        "length": 273
+    },
+
+    "21":{
+        "anomalies": [
+            {"jumping": [[14, 66]]}
+        ],
+        "length": 76
+    }
+}
