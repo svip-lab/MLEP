@@ -7,6 +7,11 @@ and tar each tar.gz file, and move them in to **data** folder.
 You can also download data from BaiduYun(https://pan.baidu.com/s/1j0TEt-2Dw3kcfdX-LCF0YQ)  i9b3 
 
 ## 3. Inference the pretrain model
+Download the pre-trained models firstly, `pretrains` folder
+  * from [BaiduPan](https://pan.baidu.com/s/1K5mE07ygCoP9Mw97RlGrSA), password, `ioov`;
+  * from [OneDrive](https://1drv.ms/u/s!AjjUqiJZsj8whLdx8Bw8NyAQ3NlGVw?e=odcUe3),
+
+and then, move the `pretrains` folder into `data`,`mv pretrains data`.
 
 #### 3.1 Inference with Only-Normal-Data Pretrained model
 ```
@@ -19,6 +24,7 @@ python inference.py  --dataset  avenue    \
 ```
 
 #### 3.2 Inference with Video-Annotated Pretrained model
+
 ```
 python inference.py  --dataset  avenue    \
           --prednet  cyclegan_convlstm    \
