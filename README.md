@@ -1,4 +1,11 @@
+# Margin Learning Embedded Prediction for Video Anomaly Detection with A Few Anomalies, IJCAI 2019
+Wen Liu*, Weixin Luo, Zhengxin Li, Peilin Zhao, Shenghua Gao.
+
 ## 1. Installation (Anaconda with python3.6 installation is recommended)
+```shell
+
+pip install -r requirements.txt
+```
 
 ## 2. Download datasets
 Please manually download all datasets from [avenue.tar.gz and shanghaitech.tar.gz](https://onedrive.live.com/?authkey=%21AMqh2fTSemfrokE&id=3705E349C336415F%215109&cid=3705E349C336415F)
@@ -55,3 +62,21 @@ See more details in
 4.3 [temporal_annotation](./doc/temporal_annotation.md).
 
 
+### Citation
+```
+@inproceedings{melp_2019,
+  author    = {Wen Liu and
+               Weixin Luo and
+               Zhengxin Li and
+               Peilin Zhao and
+               Shenghua Gao},
+  title     = {Margin Learning Embedded Prediction for Video Anomaly Detection with
+               {A} Few Anomalies},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
+               2019},
+  pages     = {3023--3030},
+  publisher = {ijcai.org},
+  year      = {2019}
+}
+```
