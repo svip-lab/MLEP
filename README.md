@@ -1,5 +1,5 @@
 # Margin Learning Embedded Prediction for Video Anomaly Detection with A Few Anomalies, IJCAI 2019
-Wen Liu*, Weixin Luo, Zhengxin Li, Peilin Zhao, Shenghua Gao.
+Wen Liu*, Weixin Luo*, Zhengxin Li, Peilin Zhao, Shenghua Gao.
 
 ## 1. Installation (Anaconda with python3.6 installation is recommended)
 ```shell
